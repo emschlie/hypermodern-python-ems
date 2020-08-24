@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/hypermodern_python_ems/__init__.py
+src/hypermodern_python_ems/console.py
+src/hypermodern_python_ems.egg-info/PKG-INFO
+src/hypermodern_python_ems.egg-info/SOURCES.txt
+src/hypermodern_python_ems.egg-info/dependency_links.txt
+src/hypermodern_python_ems.egg-info/entry_points.txt
+src/hypermodern_python_ems.egg-info/requires.txt
+src/hypermodern_python_ems.egg-info/top_level.txt

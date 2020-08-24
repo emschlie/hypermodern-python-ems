@@ -1,0 +1,3 @@
+[console_scripts]
+hypermodern-python-ems = hypermodern_python.console:main
+
